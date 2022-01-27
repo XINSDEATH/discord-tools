@@ -7,11 +7,13 @@ help: https://github.com/XINSDEATH/discord-tools/blob/main/README.md#help
 info: https://github.com/XINSDEATH/discord-tools/blob/main/README.md#info
 
 # requirements:
+
 -------------------------|
 pip install pytransform
 a brain
 
 # help:
+
 --------------------|
 this is just a remake of bluebot i didnt skid i just remade everything
 just run it by using ```python gen.py``` for the gen and ```python nuker.py``` for the nuker
@@ -21,6 +23,7 @@ input the bot token in the config.json and edit config.json after u put the toke
 ok for the gen u dont need to do anything except from answering its questions and running it lol
 
 # info:
+
 ----------------------------|
 this is just a remake of bluebot i didnt skid i just remade everything
 nothing is hard here this is very simple python
