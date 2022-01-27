@@ -7,4 +7,10 @@ bringing back the old og bluebot just better.
 requirements:
 -------------------------|
 
-```hi```
+help:
+--------------------|
+
+info:
+----------------------------|
+
+working on a the readme soon
