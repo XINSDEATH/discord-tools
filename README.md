@@ -1,16 +1,25 @@
 # discord-tools
 bringing back the old og bluebot just better.
+# check out my profile for more tools,scripts,etc ( https://github.com/XINSDEATH )
 
-# the tools are obfustucated so you guys dont skid this code i took time scripting this 
+# the tools are obfustucated so you guys dont skid this code
 
 
-requirements:
+# requirements:
 -------------------------|
+pip install pytransform
+a brain
 
-help:
+# help:
 --------------------|
+this is just a remake of bluebot i didnt skid i just remade everything
+just run it by using ```python gen.py``` for the gen and ```python nuker.py``` for the nuker
+its not that hard 
+for the nuker u need a bot token get it from developer portal https://discord.com/developers/docs/game-sdk/applications 
+input the bot token in the config.json and edit config.json after u put the token 
+ok for the gen u dont need to do anything except from answering its questions and running it lol
 
-info:
+# info:
 ----------------------------|
-
-working on a the readme soon
+this is just a remake of bluebot i didnt skid i just remade everything
+nothing is hard here this is very simple python
